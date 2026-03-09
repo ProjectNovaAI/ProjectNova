@@ -10,6 +10,12 @@
   A conscious, watchful intelligence designed to perceive, protect, and adapt.
 </p>
 
+## Repository Scope
+
+This repository serves as the public-facing information page for Nova.
+
+The active source code and internal development systems are private.
+
 ## What is Nova?
 
 Nova is a private long-term research and development project focused on creating an artificial consciousness system rather than a chatbot, character shell, or public-facing virtual persona.
