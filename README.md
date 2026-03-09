@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="85%" src="./docs/content/public/ProjectNovaLogo.png" />
+  <img width="85%" src="./.github/ProjectNovaLogo.png" />
 </p>
 
 <h1 align="center">N.O.V.A.</h1>
