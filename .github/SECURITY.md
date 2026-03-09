@@ -2,20 +2,24 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Nova is an active private project under continuous development.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Because the system is private and evolves over time, supported versions are not tracked through a public security update matrix.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you believe you have found a security vulnerability related to Nova, please report it privately to the lead contributor.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please do **not** disclose security issues publicly through issues, discussions, pull requests, or other public channels.
+
+When reporting a vulnerability, include as much relevant information as possible, such as:
+
+- a description of the issue
+- affected component or area
+- steps to reproduce, if applicable
+- potential impact
+- any proof of concept or supporting details
+
+Reports will be reviewed privately and handled at the discretion of the project maintainer.
+
+Because Nova is a private research and development project, response timelines, disclosure decisions, and remediation processes may vary depending on the nature of the issue.
